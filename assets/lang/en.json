@@ -1,0 +1,20 @@
+{
+  "like": "Like",
+  "comment": "Comment",
+  "comments": "comments",
+  "share": "Share",
+  "user_name": "user name",
+  "feeds": "feeds",
+  "add_your_post": "Add Your Post",
+  "title": "title",
+  "Title": "Title",
+  "body": "body",
+  "Body": "Body",
+  "user_id": "user id",
+  "add_post": "Add Post",
+  "Error": "Error",
+  "Post_added_Successfully!": "Post added successfully!",
+  "Please Enter valid Data": "Please Enter valid Data",
+  "User ID must be a valid number": "User ID must be a valid number",
+  "User ID is required": "User ID is required"
+}

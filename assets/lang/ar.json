@@ -1,0 +1,20 @@
+{
+  "like": "اعجبني",
+  "comment": "تعليق",
+  "comments": "تعليقات",
+  "share": "مشاركه",
+  "user_name": "اسم المستخدم",
+  "feeds": "الأخبار",
+  "add_your_post": "اضف منشورك",
+  "title": "العنوان",
+  "body": "المحتوي",
+  "user_id": "الرقم التعريفي للمستخدم",
+  "add_post": "اضف المنشور",
+  "Title": "العنوان",
+  "Body": "المحتوي",
+  "Error": "خطأ",
+  "Post_added_Successfully!": "تمت اضافه منشورك بنجاح",
+  "Please Enter valid Data": "من فضلك ادخل بيانات صحيحه",
+  "User ID must be a valid number": "من فضلك ادخل رقم تعربفي صحيح",
+  "User ID is required": "من فضلك ادخل الرقم التعريفي"
+}
